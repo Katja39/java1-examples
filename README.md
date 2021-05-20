@@ -1,2 +1,2 @@
 # java1-examples
-Erste Versuche mit Java
+Erste Java Programme für das Modul Java 1.
